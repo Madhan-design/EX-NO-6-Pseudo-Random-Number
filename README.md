@@ -39,3 +39,4 @@ int main() {
 
 
 # RESULT:
+Thus the implementation of Pseudorandom Number Generation Using Standard library is executed successfully.
